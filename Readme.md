@@ -19,7 +19,7 @@
 - [你不知道的JavaScript](https://book.douban.com/subject/26351021/)
 - [高性能JavaScript](https://book.douban.com/subject/5362856/)
 - [ECMAScript6入门](http://es6.ruanyifeng.com/)
-- [重构：改善既有代码的设定](https://book.douban.com/subject/30468597/)
+- [重构：改善既有代码的设计](https://book.douban.com/subject/30468597/)
 - 欢迎补充
 
 ## CSS
@@ -54,3 +54,4 @@
 
 - https://rsuite.github.io/react-frame/
 - [飞冰-让前端开发简单而友好](https://ice.work/docs/guide/about)
+- [大前端工具集](https://github.com/nieweidong/fetool)
