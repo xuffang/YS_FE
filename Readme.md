@@ -19,6 +19,7 @@
 - [你不知道的JavaScript](https://book.douban.com/subject/26351021/)
 - [高性能JavaScript](https://book.douban.com/subject/5362856/)
 - [ECMAScript6入门](http://es6.ruanyifeng.com/)
+- [重构：改善既有代码的设定](https://book.douban.com/subject/30468597/)
 - 欢迎补充
 
 ## CSS
@@ -45,10 +46,11 @@
 - [代码大全第二版](https://book.douban.com/subject/1477390/)
 - [SICP](https://book.douban.com/subject/1148282/) 
 - [代码整洁之道:程序员的职业素养](https://book.douban.com/subject/26919457/)
-- [程序员修炼之道：从小工到专家](https://book.douban.com/subject/5387402/) 
+- [程序员修炼之道:从小工到专家](https://book.douban.com/subject/5387402/) 
 - [Web全栈工程师的自我修养](https://book.douban.com/subject/26598045/)
 - 欢迎补充
 
 ## 项目分享
 
 - https://rsuite.github.io/react-frame/
+- [飞冰-让前端开发简单而友好](https://ice.work/docs/guide/about)
