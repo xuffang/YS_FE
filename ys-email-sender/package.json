@@ -1,0 +1,19 @@
+{
+  "name": "ys-email-sender",
+  "version": "1.0.0",
+  "description": "一个利用GitLab Web Hook在push之后自动发送邮件的工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "email",
+    "sender"
+  ],
+  "author": "robin",
+  "license": "MIT",
+  "dependencies": {
+    "gitlabhook": "0.0.17",
+    "nodemailer": "^6.2.1"
+  }
+}
