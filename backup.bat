@@ -11,7 +11,6 @@ rem set folder="%yy%.%mm%.%dd%.%Thh%.%Tmm%.%Tss%"
 rem set folder="%yy%.%mm%.%dd%"
 rem echo 当前时间为%folder% 
 
-rem 使用时需要配置项目相关路径
 set from="C:\Users\Administrator\Desktop\manage_center\manage"
 set to="C:\Users\Administrator\Desktop\manage_center\manage_%yy%%mm%%dd%"
 set current="C:\Users\Administrator\Desktop\manage_center\manage_current"
@@ -23,16 +22,19 @@ rem 配置文件备份路径
 set config="C:\Users\Administrator\Desktop\manage_center\manage_%yy%%mm%%dd%\backup"
 md %config%
 
+rem wamp配置路径
+set wamp="D:\wamp2.2\bin"
+
 rem php.ini备份
-set php="D:\wamp2.2\bin\apache\Apache2.2.21\bin\php.ini"
+set php="%wamp%\apache\Apache2.2.21\bin\php.ini"
 copy %php% %config%
 
 rem httpd.conf备份
-set httpd="D:\wamp2.2\bin\apache\Apache2.2.21\conf\httpd.conf"
+set httpd="%wamp%\apache\Apache2.2.21\conf\httpd.conf"
 copy %httpd% %config%
 
 rem my.ini备份
-set my="D:\wamp2.2\bin\mysql\mysql5.5.16\my.ini"
+set my="%wamp%\mysql\mysql5.5.16\my.ini"
 copy %my% %config%
 
 rem 删除备份验证码图片
