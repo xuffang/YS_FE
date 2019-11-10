@@ -8,6 +8,9 @@
 ## 前端成长路线图2
 ![前端成长路线图2.png](images/way2.png)  
 
+## 前端工程师的自检清单
+[前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)
+
 # 前端书籍推荐
 
 ## Javascript
